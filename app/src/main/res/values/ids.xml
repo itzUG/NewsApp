@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="heading" type="id" />
+    <item name="by" type="id" />
+    <item name="date" type="id" />
+    <item name="imageView" type="id" />
+    <item name="share" type="id" />
+    <item name="bookmark" type="id" />
+</resources>
